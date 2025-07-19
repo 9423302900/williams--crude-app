@@ -1,7 +1,7 @@
 #Larry Williams-Style Crude Oil Trading App
 
 
-import streamlit as st import pandas as pd import yfinance as yf from fpdf import FPDF import io import gspread from oauth2client.service_account import ServiceAccountCredentials
+#import streamlit as st import pandas as pd import yfinance as yf from fpdf import FPDF import io import gspread from oauth2client.service_account import ServiceAccountCredentials
 
 --- SETTINGS ---
 
