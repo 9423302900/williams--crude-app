@@ -3,7 +3,7 @@
 
 #import streamlit as st import pandas as pd import yfinance as yf from fpdf import FPDF import io import gspread from oauth2client.service_account import ServiceAccountCredentials
 
---- SETTINGS ---
+
 
 STOP_LOSS_PCT = 2 TARGET_PCT = 4 WILLIAMS_PERIOD = 10
 
