@@ -1,6 +1,5 @@
-yfinance
-pandas
-streamlit
-gspread
-oauth2client
-matplotlib
+streamlit==1.34.0
+yfinance==0.2.36
+pandas==2.2.2
+requests==2.31.0
+plotly==5.21.0
