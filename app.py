@@ -5,7 +5,7 @@
 
 
 
-STOP_LOSS_PCT = 2 TARGET_PCT = 4 WILLIAMS_PERIOD = 10
+STOP_LOSS_PCT = 2; TARGET_PCT = 4; WILLIAMS_PERIOD = 10
 
 --- Fetch Crude Oil Data ---
 
